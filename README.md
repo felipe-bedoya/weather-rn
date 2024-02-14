@@ -7,7 +7,7 @@ Make sure you have at least:
 - React Native 0.73.4
 - Expo 50.0.6
 
-# Instalation
+# Installation
 - Clone the repository
 - Install dependencies `npm install`
 - Run with `expo start`
